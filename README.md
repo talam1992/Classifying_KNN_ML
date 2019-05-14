@@ -1,2 +1,5 @@
 # Classifying_KNN_ML
-Learning Classifying K-Nearest Neighbors in Machine Learning
+
+## @Author: Timothy Lam
+
+Learning the basic Classifying K-Nearest Neighbors in Machine Learning
